@@ -1,2 +1,3 @@
 # ASIC
-IEEE ASIC hackathon at UofT- Siddharth, Ishaal, Rahil, Nisha 
+IEEE ASIC hackathon UofT 2026
+Authors: Siddharth, Ishaal, Rahil, Nisha 
